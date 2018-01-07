@@ -1,22 +1,22 @@
 # _My First Webpage_
 
-#### _This Webpage is demonstrates early learning Web Dev, 01/06/18_
+#### _This Webpage demonstrates early learning of Web Dev, 01/06/18_
 
 #### By _**Josh Rochon**_
 
 ## Description
 
-_Herein lies the code of a website in the early stages development. You will find examples of inline and block elements as well as some basic css that is used across all the webpages._
+_Herein lies the code of a website in the early stages development. You will find examples of inline and block elements as well as some basic css that is used across all webpages._
 
 ## Setup/Installation Requirements
 
 * _For use of code, simply copy and paste into a text editor_
 * _Make sure all files are in the same directory_
-* _Open the file with and Internet browser__
+* _Open the file with and Internet browser_
 
 ## Known Bugs
 
-_{Because the code is in its early stage of development, please note that some elements may not render in all Internet browsers. The latest versions of Google Chrome and Firefox are recommended.  }_
+_Because the code is in its early stage of development, please note that some elements may not render in all Internet browsers. The latest versions of Google Chrome and Firefox are recommended._
 
 ## Support and contact details
 
